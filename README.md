@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @n0xxa
+- 👋 Hi, I’m Rainer @n0xxa
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on dreams
